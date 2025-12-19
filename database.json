@@ -1,0 +1,24 @@
+{
+  "users": {
+    "1307489983359357019": {
+      "odiscordId": "1307489983359357019",
+      "username": "demisz_dc",
+      "hwid": "350616580442399",
+      "lastRequest": "2025-12-19T18:37:23.140Z",
+      "requestCount": 3
+    }
+  },
+  "keys": {
+    "1307489983359357019": {
+      "key": "ADMIN-P69UUQNJOLK-35061658-MJD7CTQH",
+      "hwid": "350616580442399",
+      "validatedAt": "2025-12-19T18:28:10.505Z",
+      "expiresAt": "2025-12-20T18:28:10.505Z",
+      "isAdmin": true
+    }
+  },
+  "stats": {
+    "totalKeys": 1,
+    "totalUsers": 1
+  }
+}
