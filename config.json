@@ -10,3 +10,32 @@
     "keySystemUrl": "https://work.ink/29pu/key-sistem-3"
   }
 }
+
+
+# ═══════════════════════════════════════════════════════════
+# KONFIGURASI - ISI SEMUA DATA DISINI
+# ═══════════════════════════════════════════════════════════
+
+# DISCORD
+DISCORD_TOKEN = "MTxxxxxxxxx"  # Token bot Discord
+
+# ADMIN DISCORD IDS (langsung dapat key tanpa iklan)
+ADMIN_IDS = [
+    123456789012345678,  # Owner
+    234567890123456789,  # Admin 2
+]
+
+# WORK.INK CONFIGURATION
+WORKINK_API_KEY = "wk_xxxxxxxxxxxxxxxx"  # API Key dari Work.ink
+WORKINK_PUBLISHER_ID = "pub_xxxxxx"       # Publisher ID
+WORKINK_LINK = "https://work.ink/xxxxxx"  # Link iklan kamu
+WORKINK_LINK_ID = "xxxxxx"                # ID dari link (bagian akhir URL)
+
+# GITHUB (untuk simpan database)
+GITHUB_TOKEN = "ghp_xxxxxxxxxxxxxxxx"
+GITHUB_REPO = "username/discord-key-bot"  # Format: username/repo
+GITHUB_BRANCH = "main"
+
+# KEY SETTINGS
+KEY_DURATION = 86400  # 24 jam dalam detik
+KEY_PREFIX = "KEY"    # Prefix key: KEY-XXXX-XXXX-XXXX
